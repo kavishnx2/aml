@@ -34,7 +34,7 @@ const App = () => {
   const router = createBrowserRouter([
     {
       path: '/',
-      element: <Overview />,
+      element: <Integration />,
     },
     {
       path: '/dashboard',
